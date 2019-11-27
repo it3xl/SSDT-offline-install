@@ -1,0 +1,1 @@
+SSDT-Setup-ENU.exe --layout packages
