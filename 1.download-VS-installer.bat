@@ -1,1 +1,1 @@
-vs_sql.exe --layout packages --lang en-us
+vs_SQL.exe --layout packages --lang en-us
